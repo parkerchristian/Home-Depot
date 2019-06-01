@@ -1,0 +1,9 @@
+.header {
+  background-color: black;
+  color: white;
+  padding: 1em 0.5em;
+}
+
+.header > h1 {
+  margin: initial;
+}
